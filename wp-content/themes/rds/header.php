@@ -31,6 +31,7 @@ $navbar_type = get_theme_mod("understrap_navbar_type", "collapse");
         <link rel="profile" href="http://gmpg.org/xfn/11">
         <?php wp_head(); ?>
 
+    
     </head>
 
     <body <?php body_class(); ?> <?php understrap_body_attributes(); ?>>
